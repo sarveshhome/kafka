@@ -46,3 +46,13 @@ export CONFLUENT HOME=/Your/Path/confluent-7.2.2
 
 export PATH=$PATH:SCONFLUENT_HOME/bin
 
+
+Run -> confluent local services start
+
+confluent local start
+
+https://docs.confluent.io/5.5.0/quickstart/ce-quickstart.html
+
+confluent local destroy
+
+
